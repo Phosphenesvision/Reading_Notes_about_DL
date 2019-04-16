@@ -220,7 +220,7 @@ git branch   ###查看在哪个分支下面
 git checkout -b zzp origin/zzp	###第一次去其他分支
 git checkout zzp	###去其他分支
 然后在相应的分支下做修改
-git add Spatial\ As\ Deep\:\ Spatial\ CNN\ for\ Traffic\ Scene\ Understanding.pdf	###添加文件，如果是删除文件后面空着就行了
+git add Spatial\ As\ Deep\:\ Spatial\ CNN\ for\ Traffic\ Scene\ Understanding.pdf	###添加文件，如果是删除文件后面也要加名字
 git add .	###只修改不上传新的东西
 git commit -m "上传一篇有关于SCNN的论文"	###对这个操作作出一点解释
 git status	###查看现在的状态
