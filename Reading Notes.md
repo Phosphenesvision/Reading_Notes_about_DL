@@ -228,3 +228,4 @@ git push origin master	###把本地修改提交到master分支上，输入用户
 git push	###同上
 ```
 
+本来想协议下ssh传输的教程，结果呵呵，发现官网上给的教程很全，行吧，去官网上查看就行了，在右上角头像那里，点进setting去就ok了
